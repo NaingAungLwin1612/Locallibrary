@@ -48,9 +48,9 @@ password = root
 
 [/admin/](http://localhost:8000/admin/)
 
-### Poll app
+### Local library app
 
-[/polls/](http://localhost:8000/polls/)
+[/catalog/](http://localhost:8000/polls/)
 
 ## Testing
 

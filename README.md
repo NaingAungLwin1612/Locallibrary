@@ -50,8 +50,8 @@ password = root
 
 ### Local library app
 
-[/catalog/](http://localhost:8000/polls/)
+[/catalog/](http://localhost:8000/catalog/)
 
 ## Testing
 
-`py manage.py test polls`
+`py manage.py test`
